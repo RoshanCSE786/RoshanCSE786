@@ -8,7 +8,7 @@ M.Tech student specializing in Software Engineering with experience in building 
 ---
 
 ### 🚀 About Me
-- 💻 Backend Development: Django, FastAPI, REST APIs  
+- 💻 Backend Development: Python, Django, FastAPI, REST APIs  
 - ⚙️ DevOps & Cloud: Docker, AWS, GitHub Actions, Terraform, Ansible  
 - 🗄️ Databases: PostgreSQL, MySQL  
 - 🧠 Exploring: Microservices, System Design, Cloud Infrastructure  
