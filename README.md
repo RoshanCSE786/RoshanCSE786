@@ -25,7 +25,7 @@ M.Tech student specializing in Software Engineering with experience in building 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40"/>
 </p>
