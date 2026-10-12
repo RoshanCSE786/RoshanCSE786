@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | DevOps Enthusiast</h3>
 
 <p align="center">
-M.Tech student specializing in Software Engineering with experience in building scalable backend systems, microservices architectures, and CI/CD pipelines.
+M.Tech student specializing in Software Engineering from NIT Bhopal with experience in building scalable backend systems, microservices architectures, and CI/CD pipelines.
 </p>
 
 ---
